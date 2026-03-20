@@ -1,6 +1,6 @@
 # Ote's Fastify Template
 
-Reusable Ote's personal starter template for backend services using Fastify + Sequelize.
+ Ote's reusable personal starter template for backend services using Fastify + Sequelize.
 
 This template is intentionally minimal but structured for growth.
 
@@ -108,7 +108,3 @@ See `logging.message`, `logging.request`, and `logging.sequelize` in `config.jso
 - `database/seeds/seed_dev_1.js` is a no-op template seed.
 - `app/plugins/cron.js` includes commented cron examples.
 - `app/plugins/websocket.js` provides connection map and `sendToUser` helper.
-
-## License
-
-ISC
